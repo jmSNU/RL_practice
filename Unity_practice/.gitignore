@@ -1,9 +1,9 @@
 # for ml-agents packages
-./ml-agents-release_19
-./ML-Agent-Project
+Unity_practice/ml-agents-release_19
+Unity_practice/ML-Agent-Project
 
 # Unity project
-./Drone_project/
-./3DBall/
-./Drone/
-./GridWorld/
+Unity_practice/Drone_project/
+Unity_practice/3DBall/
+Unity_practice/Drone/
+Unity_practice/GridWorld/
