@@ -3,7 +3,7 @@
 ./ML-Agent-Project
 
 # Unity project
-./Drone_project
-./3DBall
-./Drone
-./GridWorld
+./Drone_project/
+./3DBall/
+./Drone/
+./GridWorld/
